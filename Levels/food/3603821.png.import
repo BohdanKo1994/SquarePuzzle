@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/3603821.png-37891b1acb038d4cd24f1e84f005bf9d.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Levels/food/3603821.png"
+dest_files=[ "res://.import/3603821.png-37891b1acb038d4cd24f1e84f005bf9d.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
